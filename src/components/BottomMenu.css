@@ -1,0 +1,125 @@
+.BottomMenu {
+    display: flex;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.Delivery {
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+    border: 1px solid red;
+}
+
+.p1 {
+position: relative;
+top: 55px;
+left: 20px;
+}
+
+.About {
+    width: 250px;
+    height: 150px;
+    background-color: blue;
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+    border: 1px solid blue; 
+}
+
+.p2 {
+position: relative;
+top: 55px;
+left: 70px;
+}
+
+.Repair {
+    width: 250px;
+    height: 150px;
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+    border: 1px solid orange;
+}
+
+.p3 {
+position: relative;
+top: 40%;
+left: 10%;
+}
+
+.VK {
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    color: white;
+    font-weight: 700;  
+    font-size: 22px;
+    border: 1px solid red;
+}
+
+.p4 {
+    position: relative;
+    top: 40%;
+    left: 35%;
+}
+
+.Insta {
+    width: 100px;
+    height: 150px;
+    background-color: purple;
+    color: white;
+    font-weight: 700;  
+    font-size: 22px;
+    border: 1px solid purple;
+}
+
+.p5 {
+    position: relative;
+    top: 40%;
+    left: 30%;
+}
+
+.FB {
+    
+    width: 100px;
+    height: 150px;
+    background-color: darkblue;
+    color: white;
+    font-weight: 700;  
+    font-size: 22px;
+    border: 1px solid darkblue;
+}
+
+.p6 {
+    position: relative;
+    top: 40%;
+    left: 35%;
+}
+
+.Location {
+    width: 250px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    font-weight: 700; 
+    font-size: 22px; 
+    border: 1px solid black;
+}
+
+.p7 {
+    position: relative;
+    top: 40%;
+    left: 20%;
+}
+
+.Map {
+    width: 00px;
+    max-width: 100%;
+    height: 150px;
+    background-color: black;
+}

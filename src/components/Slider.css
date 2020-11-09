@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.Slideshow {
+    width: 100%;
+    height: 100%;
+}
+
+.Screen {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.Slides {
+    list-style: none;
+    display: flex;
+    flex-direction: row;  
+}
+
+
+.Slides li {
+    font-size: 10px;
+    float: left;
+}
+
+
+
+.dots {
+    list-style: none;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;  
+    
+}
+
+.dots li {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: lightcoral;
+    margin: 5px; 
+}
+
+
+.trigger{
+    background: none;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 70px;
+    font-weight: 900;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0.3;
+    transition: 0.5s;
+    color: black;
+}
+
+.trigger:hover{
+    opacity: 1;
+}
+
+.trigger:focus{
+    outline: none;
+}
+
+.t-left{
+    left: 0;
+}
+
+.t-right{
+    right: 0;
+}

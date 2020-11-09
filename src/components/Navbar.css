@@ -1,0 +1,96 @@
+.navbar {
+    background-color: blue;
+    width: 100%;
+    
+}
+
+.nav-links {
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Products {
+    padding: 15px;
+}
+
+.Products:hover {
+    cursor: pointer;
+    background-color: tomato;
+}
+
+.Logo {
+    width: 70px;
+    cursor: pointer;
+}
+.Cart {
+    width: 40px;
+    cursor: pointer;
+    
+}
+
+button {
+    color: white;
+    background-color: orangered;
+    border-radius: 10px 10px 10px 10px;
+    width: 80px;
+    cursor: pointer;
+    border: none;
+}
+
+input {
+    border-radius: 10px 10px 10px 10px;
+    width: 200px;
+    border: none;
+}
+
+.Dropdown {
+    z-index: 2;
+    display: none;
+    list-style: none;
+    position: absolute;
+    background-color: blue;
+    min-width: 160px;
+    min-height: 150px;
+    padding: 15px;
+    top: 53px;
+}
+
+.Dropdown li {
+    float: none;
+    color: white;
+    padding: 12px 12px;
+    display: block;
+    text-align: left;
+}
+
+.Dropdown li:hover {
+    background-color: tomato;
+}
+
+.Products:hover .Dropdown {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
