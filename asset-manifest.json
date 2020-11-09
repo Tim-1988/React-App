@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.3a0c9d48.chunk.css",
+    "main.js": "/React-App/static/js/main.9152ea33.chunk.js",
+    "main.js.map": "/React-App/static/js/main.9152ea33.chunk.js.map",
+    "runtime-main.js": "/React-App/static/js/runtime-main.e736d003.js",
+    "runtime-main.js.map": "/React-App/static/js/runtime-main.e736d003.js.map",
+    "static/css/2.43b2b750.chunk.css": "/React-App/static/css/2.43b2b750.chunk.css",
+    "static/js/2.6439dd79.chunk.js": "/React-App/static/js/2.6439dd79.chunk.js",
+    "static/js/2.6439dd79.chunk.js.map": "/React-App/static/js/2.6439dd79.chunk.js.map",
+    "static/js/3.7a04c683.chunk.js": "/React-App/static/js/3.7a04c683.chunk.js",
+    "static/js/3.7a04c683.chunk.js.map": "/React-App/static/js/3.7a04c683.chunk.js.map",
+    "index.html": "/React-App/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/React-App/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.3a0c9d48.chunk.css.map": "/React-App/static/css/main.3a0c9d48.chunk.css.map",
+    "static/js/2.6439dd79.chunk.js.LICENSE.txt": "/React-App/static/js/2.6439dd79.chunk.js.LICENSE.txt",
+    "static/media/Logo.3adc4d15.svg": "/React-App/static/media/Logo.3adc4d15.svg",
+    "static/media/map1.a066499c.jpg": "/React-App/static/media/map1.a066499c.jpg",
+    "static/media/shoppingcart.55977e20.svg": "/React-App/static/media/shoppingcart.55977e20.svg",
+    "static/media/slider1.cdf50640.jpg": "/React-App/static/media/slider1.cdf50640.jpg",
+    "static/media/slider2.0213232e.jpg": "/React-App/static/media/slider2.0213232e.jpg",
+    "static/media/slider3.d3d831e2.jpg": "/React-App/static/media/slider3.d3d831e2.jpg",
+    "static/media/slider4.7696b811.jpg": "/React-App/static/media/slider4.7696b811.jpg",
+    "static/media/slider5.6ddf9297.jpg": "/React-App/static/media/slider5.6ddf9297.jpg",
+    "static/media/slider6.156ad072.jpg": "/React-App/static/media/slider6.156ad072.jpg",
+    "static/media/slider7.42dc2c03.jpg": "/React-App/static/media/slider7.42dc2c03.jpg",
+    "static/media/slider8.5ad0db02.jpg": "/React-App/static/media/slider8.5ad0db02.jpg",
+    "static/media/slider9.ada99270.jpg": "/React-App/static/media/slider9.ada99270.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e736d003.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.6439dd79.chunk.js",
+    "static/css/main.3a0c9d48.chunk.css",
+    "static/js/main.9152ea33.chunk.js"
+  ]
+}
